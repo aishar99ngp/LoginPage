@@ -18,4 +18,5 @@ public class WelcomePage {
         frame.setVisible(true);
         frame.setLayout(null);
     }
+    
 }
